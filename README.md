@@ -1,3 +1,5 @@
+ **UNMAINTAINED FORK / DO NOT USE**
+
 # Docker SDK for Python
 
 [![Build Status](https://travis-ci.org/docker/docker-py.svg?branch=master)](https://travis-ci.org/docker/docker-py)
